@@ -1,5 +1,5 @@
 
-#  Here is the solution of the  69. Sqrt(x) LeetCode problem (Python)
+#  Here is the solution of the  35. Search Insert Position LeetCode problem (Python)
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
