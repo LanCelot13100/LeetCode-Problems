@@ -14,6 +14,7 @@ class Solution(object):
 
 
 #  This block of code down below is needed to run the program in your IDE, but you don't actually need it when you check your answer on LeetCode
-number = int(input("Enter some number: "))
+number = 8
+
 variable = Solution()
 print(variable.mySqrt(number))
