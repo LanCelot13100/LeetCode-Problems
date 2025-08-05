@@ -18,3 +18,4 @@ number = 8
 
 variable = Solution()
 print(variable.mySqrt(number))
+
