@@ -1,5 +1,5 @@
 
-#  Here is the solution of the  35. Search Insert Position LeetCode problem (Python)
+#  Here is the solution of the  35. Search Insert Position LeetCode problem
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
@@ -33,3 +33,4 @@ number = 4
 
 smth = Solution()
 print(smth.searchInsert(nums=my_list,target=number))
+
