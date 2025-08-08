@@ -1,5 +1,5 @@
 
-#  Here is the solution of the  27. Remove Element LeetCode problem (Python)
+#  Here is the solution of the  27. Remove Element LeetCode problem
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
@@ -21,4 +21,5 @@ number = 2
 
 smth = Solution()
 print(smth.removeElement(nums=my_list,val=number))
+
 
