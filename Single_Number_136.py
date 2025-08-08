@@ -1,5 +1,5 @@
 
-#  Here is the solution of the 136. Single Number LeetCode problem (Python)
+#  Here is the solution of the 136. Single Number LeetCode problem
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
@@ -31,3 +31,4 @@ numbers = [2,2,1]
 
 variable = Solution()
 print(variable.singleNumber(nums=numbers))
+
