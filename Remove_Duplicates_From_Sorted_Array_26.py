@@ -1,5 +1,5 @@
 
-#  Here is the solution of the  26. Remove duplicates from sorted array LeetCode problem (Python)
+#  Here is the solution of the  26. Remove duplicates from sorted array LeetCode problem
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
@@ -31,3 +31,4 @@ numbers = [0,0,0,0,3]
 variable = Solution()
 print(variable.removeDuplicates(numbers))
 print(type(variable))
+
