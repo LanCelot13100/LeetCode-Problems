@@ -1,5 +1,5 @@
 
-#  Here is the solution of the 88. Merge Sorted Array LeetCode problem (Python)
+#  Here is the solution of the 88. Merge Sorted Array LeetCode problem
 #  I was able to come up with my own way of solving that. Here it is:
 
 class Solution(object):
@@ -33,3 +33,4 @@ num2 = 0
 
 variable = Solution()
 variable.merge(nums1=list1,m=num1,nums2=list2,n=num2)
+
